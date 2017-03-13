@@ -1,0 +1,76 @@
+.content {
+  margin: 0 auto;
+  width: 30em;
+  padding-top: 2.5em;
+}
+
+.title {
+  margin: 0.5em;
+}
+
+.title-card {
+  margin-bottom: 1em;
+}
+
+.title-icon {
+  position: absolute;
+  right: 1em;
+  color: green;
+  cursor: pointer;
+}
+
+.filter-list {
+  flex-direction: row;
+}
+
+.filter-item {
+  padding: 0.5em 1em;
+  cursor: pointer;
+}
+
+.filter-item:hover {
+  text-decoration: underline;
+  color: #025aa5;
+}
+
+.todo-list {
+  padding-top: 1em;
+}
+
+.todo-item {
+  position: relative;
+}
+
+.todo-item:hover {
+  color: #fff;
+  background-color: skyblue;
+}
+
+.todo-icon-group {
+  position: absolute;
+  right: 1em;
+}
+
+.todo-icon {
+  padding-left: 1em;
+  cursor: pointer;
+}
+
+.todo-icon:hover {
+  color: #025aa5;
+}
+
+.todo-label {
+  padding-left: 1em;
+  cursor: pointer;
+}
+
+.todo-label-complete {
+  text-decoration: line-through;
+}
+
+
+.modal-show {
+  display: block;
+  background-color: rgba(0, 0, 0, 0.5);
+}
