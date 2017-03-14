@@ -1,7 +1,7 @@
 #TODO LIST
 
 - npm install
-- npm start
+- npm start (server will be start in localhost:3000)
 - npm run build (for production)
 - npm run eject (for more configuration)
 
