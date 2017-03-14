@@ -33,6 +33,11 @@
   color: #025aa5;
 }
 
+.filter-item-active {
+  text-decoration: underline;
+  color: #025aa5;
+}
+
 .todo-list {
   padding-top: 1em;
 }
